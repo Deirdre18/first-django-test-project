@@ -26,7 +26,7 @@ SECRET_KEY = 'q+x&ea4%j%^a#r&fakg9-^^l*7n9+8u%b&3+a$c$i3nh%bxwhk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["ci-school-todo.herokuapp.com"]
 
 
 # Application definition
